@@ -7,4 +7,5 @@ redirect_from:
   - /about.html
 ---
 I'm a PhD student in Statistics and Computer Science at Bocconi University. 
+
 I am interested in Bayesian Nonparametric Statistics.
