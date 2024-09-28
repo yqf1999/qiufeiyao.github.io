@@ -22,8 +22,8 @@ repository               : "qiufeiyao/qiufeiyao.github.io"
 author:
   # Biographic information
   avatar           : "picture.png"
-  name             : "Qiufei YAO"
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Yao, Qiufei/姚秋菲"
+  bio              : #""
   location         : "Milan,Italy"
   email            : "qiufei.yao@phd.unibocconi.it" 
 
